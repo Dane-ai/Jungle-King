@@ -10,7 +10,7 @@ public class GameManager {
 		Board board = new Board();
 		Player turn;
 		ArrayList<Player> players = new ArrayList<>();
-		
+		Scanner scan = new Scanner(System.in);
 		
 		System.out.println(" Jungle King");
 		System.out.println(" 1 - Instructions");
