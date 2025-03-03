@@ -2,8 +2,12 @@ package mp;
 
 public class AnimalPiece {
 	
+	private int x, y;
 	private int strength;
-	private String type;
+	private boolean isPlayerOne;
+	private boolean isWeakend
+
+	
 	
 	
 
